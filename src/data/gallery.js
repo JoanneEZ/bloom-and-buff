@@ -4,7 +4,7 @@ export const gallery = [
     title: 'The Cat Eye',
     price: 12000,
     trending: true,
-    image: 'public/images/cateye.jpg',
+    image: '/images/cateye.jpg',
     alt: 'Cat eye nail art',
   },
   {
@@ -12,7 +12,7 @@ export const gallery = [
     title: 'Chrome Art',
     price: 10000,
     trending: false,
-    image: 'public/images/chrome.jpg',
+    image: '/images/chrome.jpg',
     alt: 'Chrome nail art',
   },
   {
@@ -20,7 +20,7 @@ export const gallery = [
     title: '3D Frenchies',
     price: 9000,
     trending: false,
-    image: 'public/images/frenchtips.jpg',
+    image: '/images/frenchtips.jpg',
     alt: '3D French nail art',
   },
   {
@@ -28,7 +28,7 @@ export const gallery = [
     title: 'Toes Glow',
     price: 5000,
     trending: false,
-    image: 'public/images/toes.jpg',
+    image: '/images/toes.jpg',
     alt: 'toes with nail art',
   },
 ];

@@ -28,13 +28,13 @@ export default function Navbar() {
     >
       <nav className="max-w-7xl mx-auto px-6 lg:px-10 h-20 flex items-center justify-between">
 
-        <a
+       <a
             href="#"
             className="flex items-center gap-2 font-script text-2xl sm:text-3xl md:text-4xl text-plum hover:text-pink transition-colors whitespace-nowrap leading-none"
             >
             <span>Bloom &amp; Buff</span>
             <img
-                src="public/images/polish.png.png"
+                src="/images/polish.png"
                 alt=""
                 aria-hidden="true"
                 className="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 object-contain"

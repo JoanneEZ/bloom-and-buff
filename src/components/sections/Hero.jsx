@@ -17,7 +17,7 @@ export default function Hero() {
             </h1>
 
             <p className="text-muted text-base md:text-lg mt-6 max-w-lg mx-auto md:mx-0 leading-relaxed">
-              Bloom & Buff is your go‑to spot for acrylics, gels, and pedicures. We focus on clean, careful work so you walk out with nails you’ll be happy to show off.
+              Bloom &amp; Buff is your go-to spot for acrylics, gels, and pedicures. We focus on clean, careful work so you walk out with nails you'll be happy to show off.
             </p>
 
             <div className="flex flex-wrap items-center justify-center md:justify-start gap-4 mt-8">
@@ -37,7 +37,7 @@ export default function Hero() {
             {/* Polaroid 1 — The Chrome Set */}
             <div className="absolute top-6 left-4 md:left-0 w-44 md:w-52 bg-white rounded-lg shadow-xl p-3 rotate-[-8deg] hover:rotate-[-5deg] transition-transform duration-500">
               <img
-                src="public/images/Nail-1.png"
+                src="/images/Nail-1.png"
                 alt="The Chrome Set — glossy chrome nail art on dark skin"
                 className="w-full aspect-square object-cover rounded-md"
               />
@@ -52,7 +52,7 @@ export default function Hero() {
             {/* Polaroid 2 — Cheetah Girls */}
             <div className="absolute bottom-6 right-4 md:right-0 w-44 md:w-52 bg-white rounded-lg shadow-xl p-3 rotate-[6deg] hover:rotate-[3deg] transition-transform duration-500">
               <img
-                src="public/images/Nail-2.png"
+                src="/images/Nail-2.png"
                 alt="Cheetah Girls — bold animal print nail art on dark skin"
                 className="w-full aspect-square object-cover rounded-md"
               />
